@@ -1,0 +1,18 @@
+body {
+  background: #E5E5E5;
+  font-family: Roboto, sans-serif;
+  height: 100vh;
+}
+
+.btn{
+  margin: 2px;
+}
+
+.btn-play{
+  font-size: 2rem;
+  background-color:#0A3871 !important;
+}
+
+.text-primary{
+  color: #0A3871 !important;
+}
